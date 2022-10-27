@@ -1,3 +1,3 @@
 # SHOPEE
 Learn F8, Clone Shopee.
-https://tranvinhluan.github.io/SHOPEE/
+https://duythanhlieu.github.io/SHOPEE_CLONE_F8
